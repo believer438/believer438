@@ -2,6 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Systems+Builder;Backend+%26+API+Developer;Software+Architecture+Enthusiast" alt="Animated professional introduction" />
 
+<p>
+<a href="https://github.com/believer438"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/believer438?tab=repositories"><img src="https://img.shields.io/badge/Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</p>
+
 <h1>Believer Shemu</h1>
 
 <p><strong>Full-Stack Developer · AI Systems · Web and Backend Engineering</strong></p>
@@ -59,6 +64,25 @@ Currently exploring Android and React Native development.
 </table>
 
 <p align="center"><code>REST APIs</code> · <code>OpenCV</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>GitHub</code></p>
+
+<br>
+
+<h2 align="center">Focus Areas</h2>
+
+<table align="center">
+<tr>
+<th>Product Engineering</th>
+<th>Intelligent Systems</th>
+<th>Backend Engineering</th>
+<th>Continuous Growth</th>
+</tr>
+<tr>
+<td align="center">Useful digital products<br>Responsive web applications</td>
+<td align="center">AI integrations<br>Computer vision</td>
+<td align="center">APIs and databases<br>Reliable software architecture</td>
+<td align="center">Documentation<br>Open-source learning</td>
+</tr>
+</table>
 
 <br>
 
