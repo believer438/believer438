@@ -12,6 +12,21 @@ Building practical software, intelligent systems, and digital products that solv
 
 ---
 
+## GitHub Analytics
+
+The following cards are generated from public GitHub data. If an external service is unavailable, the text of this README remains usable without it.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=believer438&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Public GitHub account statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believer438&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Languages detected in public repositories" />
+
+<img src="https://streak-stats.demolab.com?user=believer438&theme=github-dark-blue&hide_border=true" alt="Public GitHub contribution streak" />
+
+</div>
+
+These cards are dynamic summaries, not a definitive measure of technical proficiency. Language distribution reflects repository contents and may be affected by generated or supporting files.
+
 ## About Me
 
 I am a self-taught Full-Stack Developer with more than four years of declared development experience. I build web applications, APIs, database-driven systems, and intelligent digital solutions.
@@ -83,21 +98,6 @@ A Python backend repository containing FastAPI routes, SQLAlchemy models, authen
 **Status:** Backend under development. The public README currently contains unresolved merge-conflict markers, so it should be cleaned separately before being presented as production documentation.
 
 No public repository named `B-Market` was found during this audit, so it is not listed as a verified project.
-
-## GitHub Analytics
-
-The following cards are generated from public GitHub data. If an external service is unavailable, the text of this README remains usable without it.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=believer438&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Public GitHub account statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believer438&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Languages detected in public repositories" />
-
-<img src="https://streak-stats.demolab.com?user=believer438&theme=github-dark-blue&hide_border=true" alt="Public GitHub contribution streak" />
-
-</div>
-
-These cards are dynamic summaries, not a definitive measure of technical proficiency. Language distribution reflects repository contents and may be affected by generated or supporting files.
 
 ## Development Philosophy
 
