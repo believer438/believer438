@@ -34,37 +34,39 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
-<p align="center">
-Self-taught Full-Stack Developer with more than four years of declared development experience.<br>
-Focused on web applications, APIs, databases, artificial intelligence, networking, and software architecture.<br>
-Currently exploring Android and React Native development.
+<p>
+I am a self-taught Full-Stack Developer with more than four years of declared development experience. I enjoy transforming practical ideas into reliable digital products, from the user interface to the backend services and data layer.
+</p>
+
+<p>
+My work combines React and TypeScript for modern web interfaces with Python, FastAPI, Django, SQL, and database integrations on the backend. I am also interested in artificial intelligence, computer vision, networking, software architecture, Android, and React Native.
 </p>
 
 <br>
 
-<h2 align="center">Technical Skills</h2>
+<h2>Technical Skills</h2>
 
-<p align="center"><strong>Frontend</strong><br>
+<p><strong>Frontend</strong><br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-<p align="center"><strong>Backend and Data</strong><br>
+<p><strong>Backend and Data</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<p align="center"><code>REST APIs</code> · <code>OpenCV</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>GitHub</code></p>
+<p><strong>Additional areas:</strong> <code>REST APIs</code> · <code>OpenCV</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>GitHub</code></p>
 
 <br>
 
-<h2 align="center">Focus Areas</h2>
+<h2>Focus Areas</h2>
 
 <table align="center">
 <tr>
@@ -83,9 +85,9 @@ Currently exploring Android and React Native development.
 
 <br>
 
-<h2 align="center">Selected Projects</h2>
+<h2>Selected Projects</h2>
 
-<table align="center">
+<table>
 <tr>
 <th>Project</th>
 <th>Focus</th>
@@ -113,22 +115,44 @@ Currently exploring Android and React Native development.
 </tr>
 </table>
 
+### T.E.S.S. Web App
+
+[Open the repository](https://github.com/believer438/TESS-web-app)
+
+A TypeScript web application built with React and Vite. Its structure includes reusable interface components, routing, rich-text tooling, data visualisation dependencies, and a defined build and type-check workflow. It represents my interest in intelligent digital services and practical user-facing software.
+
+### Zentrix Academy
+
+[Open the repository](https://github.com/believer438/Zentrix-Academy)
+
+A web application built around an online learning platform concept. The public repository confirms a React and Vite frontend with TypeScript, form handling, reusable UI components, routing, and charting support.
+
+### Facial Recognition Attendance
+
+[Open the repository](https://github.com/believer438/reconnaissance-facial)
+
+A local Django application for attendance management. It uses webcam input, OpenCV LBPH training, SQLite storage, and spreadsheet-related tools to support a local presence-recording workflow.
+
+### La-Ma Backend
+
+[Open the repository](https://github.com/believer438/la-ma_backend)
+
+A Python backend repository containing FastAPI routes, SQLAlchemy models, authentication modules, WebSocket support, and Supabase integration. The repository is still under development and its public README needs documentation cleanup.
+
 <br>
 
-<h2 align="center">Current Focus</h2>
+<h2>Current Focus</h2>
 
-<p align="center">
-Full-stack applications · Reliable APIs · AI integrations · Database design<br>
-Android and React Native foundations · Maintainable software architecture
+<p>
+I am currently improving full-stack applications, reliable APIs, AI integrations, database design, and maintainable software architecture. I am also strengthening my foundations in Android and React Native development.
 </p>
 
 <br>
 
-<h2 align="center">Contributions and Collaboration</h2>
+<h2>Contributions and Collaboration</h2>
 
-<p align="center">
-Interested in software projects, technical collaboration, open-source learning,<br>
-documentation, and useful digital products.
+<p>
+I am interested in software projects, technical collaboration, open-source learning, documentation, and the development of useful digital products.
 </p>
 
 <div align="center">
