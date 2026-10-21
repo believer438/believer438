@@ -1,128 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Systems+Builder;Backend+%26+API+Developer;Android+Application+Developer;Software+Architecture+Enthusiast" alt="Animated introduction: Full-Stack Developer, AI Systems Builder, Backend and API Developer, Android Application Developer, Software Architecture Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Systems+Builder;Backend+%26+API+Developer;Software+Architecture+Enthusiast" alt="Animated professional introduction" />
 
-### Full-Stack Developer | AI Systems | Web and Backend Engineering
+<h1>Believer Shemu</h1>
 
-Building practical software, intelligent systems, and digital products that solve real-world problems.
+<p><strong>Full-Stack Developer · AI Systems · Web and Backend Engineering</strong></p>
+<p>Building practical software, intelligent systems, and useful digital products.</p>
 
-[GitHub Profile](https://github.com/believer438) · [Repositories](https://github.com/believer438?tab=repositories)
+<a href="https://github.com/believer438">GitHub Profile</a> ·
+<a href="https://github.com/believer438?tab=repositories">Repositories</a>
 
 </div>
 
----
+<br>
 
-## GitHub Analytics
-
-The following cards are generated from public GitHub data. If an external service is unavailable, the text of this README remains usable without it.
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=believer438&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Public GitHub account statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believer438&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Languages detected in public repositories" />
 
+<br>
+
 <img src="https://streak-stats.demolab.com?user=believer438&theme=github-dark-blue&hide_border=true" alt="Public GitHub contribution streak" />
 
 </div>
 
-These cards are dynamic summaries, not a definitive measure of technical proficiency. Language distribution reflects repository contents and may be affected by generated or supporting files.
+<br>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-I am a self-taught Full-Stack Developer with more than four years of declared development experience. I build web applications, APIs, database-driven systems, and intelligent digital solutions.
+<p align="center">
+Self-taught Full-Stack Developer with more than four years of declared development experience.<br>
+Focused on web applications, APIs, databases, artificial intelligence, networking, and software architecture.<br>
+Currently exploring Android and React Native development.
+</p>
 
-My current technical interests include React and TypeScript on the frontend, Python and FastAPI on the backend, SQL-based systems, artificial intelligence, networking, and software architecture. I am also exploring Android and React Native development.
+<br>
 
-I focus on turning ideas into useful, maintainable software while continuing to improve through experimentation, documentation, and implementation.
+<h2 align="center">Technical Skills</h2>
 
-## Technical Skills
+<table align="center">
+<tr>
+<td align="center"><strong>Frontend</strong><br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</td>
+<td align="center"><strong>Backend and Data</strong><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</td>
+</tr>
+</table>
 
-### Frontend
+<p align="center"><code>REST APIs</code> · <code>OpenCV</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>GitHub</code></p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br>
 
-### Backend and Data
+<h2 align="center">Selected Projects</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Focus</th>
+<th>Verified stack</th>
+</tr>
+<tr>
+<td><a href="https://github.com/believer438/TESS-web-app"><strong>T.E.S.S. Web App</strong></a></td>
+<td>Web application and intelligent digital services</td>
+<td>TypeScript · React · Vite</td>
+</tr>
+<tr>
+<td><a href="https://github.com/believer438/Zentrix-Academy"><strong>Zentrix Academy</strong></a></td>
+<td>Online learning platform concept</td>
+<td>TypeScript · React · Vite</td>
+</tr>
+<tr>
+<td><a href="https://github.com/believer438/reconnaissance-facial"><strong>Facial Recognition Attendance</strong></a></td>
+<td>Local attendance system using webcam recognition</td>
+<td>Python · Django · OpenCV · SQLite</td>
+</tr>
+<tr>
+<td><a href="https://github.com/believer438/la-ma_backend"><strong>La-Ma Backend</strong></a></td>
+<td>Backend APIs and database services</td>
+<td>Python · FastAPI · SQLAlchemy · Supabase</td>
+</tr>
+</table>
 
-### Other Areas
+<br>
 
-- Artificial intelligence and intelligent application workflows
-- REST API design and backend architecture
-- Computer vision with OpenCV
-- Database integration and relational data modelling
-- Android and React Native as development areas
-- GitHub-based development workflows
+<h2 align="center">Current Focus</h2>
 
-The technologies above are based on the public repositories currently visible on this account. They are not intended to represent a formal certification or a complete list of skills.
+<p align="center">
+Full-stack applications · Reliable APIs · AI integrations · Database design<br>
+Android and React Native foundations · Maintainable software architecture
+</p>
 
-## Selected Projects
+<br>
 
-### [T.E.S.S. Web App](https://github.com/believer438/TESS-web-app)
+<h2 align="center">Contributions and Collaboration</h2>
 
-A TypeScript web application built with React and Vite. The repository contains a frontend application structure, reusable UI components, rich-text and data-visualisation dependencies, and a build/type-check workflow.
-
-**Verified stack:** TypeScript, React, Vite, React Router, Tailwind-related tooling.
-
-**Status:** Active development based on the latest public repository update.
-
-### [Zentrix Academy](https://github.com/believer438/Zentrix-Academy)
-
-A TypeScript web application built around an online learning platform concept, with a React/Vite frontend and structured UI components.
-
-**Verified stack:** TypeScript, React, Vite, React Router, React Hook Form, Recharts.
-
-**Status:** Active development based on the latest public repository update.
-
-### [Facial Recognition Attendance System](https://github.com/believer438/reconnaissance-facial)
-
-A local Django application for attendance management using a webcam, SQLite, OpenCV LBPH training, and spreadsheet-related tooling.
-
-**Verified stack:** Python, Django, OpenCV, NumPy, Pillow, SQLite, OpenPyXL.
-
-**Status:** Local application documented in the repository; no public deployment was identified.
-
-### [La-Ma Backend](https://github.com/believer438/la-ma_backend)
-
-A Python backend repository containing FastAPI routes, SQLAlchemy models, authentication-related modules, WebSocket support, and Supabase integration.
-
-**Verified stack:** Python, FastAPI, SQLAlchemy, PostgreSQL driver, Pydantic, Supabase, WebSockets.
-
-**Status:** Backend under development. The public README currently contains unresolved merge-conflict markers, so it should be cleaned separately before being presented as production documentation.
-
-No public repository named `B-Market` was found during this audit, so it is not listed as a verified project.
-
-## Development Philosophy
-
-- Start with the problem before choosing the technology.
-- Prefer understandable, maintainable, and reusable code.
-- Build around real user needs rather than unnecessary complexity.
-- Improve continuously through documentation, testing, and implementation.
-- Consider security, reliability, and user experience throughout development.
-
-## Current Focus
-
-- Improving full-stack web applications and backend services.
-- Designing reliable APIs and database-backed systems.
-- Exploring practical AI integrations and intelligent software workflows.
-- Developing stronger foundations in Android and React Native.
-- Improving software architecture, documentation, and deployment practices.
-
-## Contributions and Collaboration
-
-I am interested in software projects, technical collaboration, open-source learning, documentation, and the development of useful digital products.
-
-Explore the repositories above to review the implementations and follow the evolution of my work.
+<p align="center">
+Interested in software projects, technical collaboration, open-source learning,<br>
+documentation, and useful digital products.
+</p>
 
 <div align="center">
 
-Building software with purpose. Engineering solutions with intention.
+<strong>Building software with purpose. Engineering solutions with intention.</strong>
 
 </div>
